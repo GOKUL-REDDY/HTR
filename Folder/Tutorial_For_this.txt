@@ -1,0 +1,23 @@
+Hey!
+
+This is Gokul pursuing my B.E….I am glad to participate in this internship about Deep Learning by ATEva Company …
+
+My Approach  :
+
+Handwritten text recognition is basically we can see it in our CamScanner App which we use daily.In that app they used OCR(Optical Character Recognition) and Normal fast recognition which doesn’t have accuracy at all.But while using OCR its working, But not completely.So I started with OCR to get text recognized,but I faced many problems using that.. like API key and Money to be paid,then I decided to go offline then I found the “PY TESSERACT '' which is an Optical Character Recognition(OCR) tool for Python. Together they can be used to read the contents of a section of the screen. And further application in NLP(Natural Language Processing) also helps a lot. 
+Hence, I worked on this Py Tesseract and got the results which are almost accurate and much better when compared to CamScanner fast recognition. 
+
+APPLICATION: 
+
+When we upload an image named “tester.jpeg”....in our python script then it will make a copy of those images with different resolutions and brightness adjustment is done.Here I took upto 25 photos only you make it to 100 photos.
+
+Then we will send these files to Py Tesseract and convert them to text format.Finally another folder is created and it will contain the text format which we need.
+This is my approach towards the HTR.
+
+Conclusion:   
+Among all the photos of 25 ,the range from 1 to 13photos will give the output with high accuracy.You can check the text recognition text files.This is how I implemented the Handwritten Text Recognition using normal python I am trying to work on OCR which results well.
+
+
+Thank You. 
+
+
