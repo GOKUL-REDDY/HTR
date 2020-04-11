@@ -1,6 +1,6 @@
 # Tutorial For Execution
 Download all the requirements and PyTessract given below and follow the text recognition.ipynb .
-Here I took the input image as tester.jpeg..And the Output are the Text_files.
+Here I took the input image as "tester.jpeg",And the Output are the Text_files in the Folder
 # Download PyTesseract
 WARNING: Tesseract should be either installed in the directory which is suggested during the installation or in a new directory. The uninstaller removes the whole installation directory. If you installed Tesseract in an existing directory, that directory will be removed with all its subdirectories and files.
 
