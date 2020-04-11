@@ -1,4 +1,6 @@
-#Download Py Tesseract
+# Download PyTesseract
+
+
 WARNING: Tesseract should be either installed in the directory which is suggested during the installation or in a new directory. The uninstaller removes the whole installation directory. If you installed Tesseract in an existing directory, that directory will be removed with all its subdirectories and files.
 
 The latest installers can be downloaded here:
